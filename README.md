@@ -1,1 +1,1 @@
-Projeto final de um site para uma modelo fictícia chamada Anna Bella, utilizando os fundamentos do CSS e HTML
+Projetos realizados utilizando CSS, HTML, JavaScript, Framework Bootstrap4 e mais.
